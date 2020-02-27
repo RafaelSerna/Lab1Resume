@@ -1,0 +1,48 @@
+body {
+	background-color: #1c1c1c;
+	color: white;
+}
+
+main {
+	padding-bottom: 20px;
+}
+
+h1 {
+	font-family: "Times New Roman";
+	font-size: xx-large;
+}
+
+a {
+	color: lightblue;
+}
+
+p {
+	font-family: "Arial";
+}
+
+li {
+	font-family: "Arial";
+	width: 100%;
+}
+
+div {
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	word-wrap: break-word;
+	border-top: solid;
+	border-color: black;
+}
+
+footer {
+	text-align: left;
+	font-size: 10px;
+}
+
+h2 {
+	font-family: "Cochin";
+}
+
+h2:hover {
+	color: gray;
+}
